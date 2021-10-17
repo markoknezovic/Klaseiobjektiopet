@@ -1,0 +1,14 @@
+C:\Users\ivanm\source\repos\Zadatak klase Biljka\Zadatak klase Biljka\bin\Debug\Zadatak klase Biljka.exe.config
+C:\Users\ivanm\source\repos\Zadatak klase Biljka\Zadatak klase Biljka\bin\Debug\Zadatak klase Biljka.exe
+C:\Users\ivanm\source\repos\Zadatak klase Biljka\Zadatak klase Biljka\bin\Debug\Zadatak klase Biljka.pdb
+C:\Users\ivanm\source\repos\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.exe
+C:\Users\ivanm\source\repos\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.pdb
+C:\Users\Korisnik\Desktop\Klase-i-objekti-main\Zadatak klase Biljka\Zadatak klase Biljka\bin\Debug\Zadatak klase Biljka.exe.config
+C:\Users\Korisnik\Desktop\Klase-i-objekti-main\Zadatak klase Biljka\Zadatak klase Biljka\bin\Debug\Zadatak klase Biljka.exe
+C:\Users\Korisnik\Desktop\Klase-i-objekti-main\Zadatak klase Biljka\Zadatak klase Biljka\bin\Debug\Zadatak klase Biljka.pdb
+C:\Users\Korisnik\Desktop\Klase-i-objekti-main\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Klase-i-objekti-main\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Klase-i-objekti-main\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.exe
+C:\Users\Korisnik\Desktop\Klase-i-objekti-main\Zadatak klase Biljka\Zadatak klase Biljka\obj\Debug\Zadatak klase Biljka.pdb

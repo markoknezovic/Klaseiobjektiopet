@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad3KlaseiObjekti", "Zadatak 3 Klase i objekti\Zad3KlaseiObjekti.csproj", "{5CAFC0E0-22B4-46B8-A87A-41C6B79F8ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CAFC0E0-22B4-46B8-A87A-41C6B79F8ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAFC0E0-22B4-46B8-A87A-41C6B79F8ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAFC0E0-22B4-46B8-A87A-41C6B79F8ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAFC0E0-22B4-46B8-A87A-41C6B79F8ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60838EEB-46A0-47F1-8E4E-5A99BB9816D2}
+	EndGlobalSection
+EndGlobal
